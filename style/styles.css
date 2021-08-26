@@ -1,0 +1,27 @@
+button{
+    display: block;
+    margin: 10px;
+}
+
+.search{
+    border-color: lightblue;
+    color: lightblue;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.plus{
+    border-radius: 50%;
+    color: white;
+    background-color: lightgray;
+    border-color: lightgray;
+    border-width: 1px;
+}
+
+.account{
+    background-color: blue;
+    border-color: black;
+    color: white;
+    box-shadow: black;
+}
